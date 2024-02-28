@@ -15,8 +15,6 @@ target/
 *.iws
 *.iml
 *.ipr
-/.idea/
-/download/
 /target/
 /tmp/
 
@@ -44,3 +42,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
+/download/

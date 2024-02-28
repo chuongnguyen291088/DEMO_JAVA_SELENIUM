@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3807c51f-f505-4867-8abc-0f19eaa165ac" name="Changes" comment="demo automation">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3807c51f-f505-4867-8abc-0f19eaa165ac" name="Changes" comment="add files into .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo automation" />
+    <MESSAGE value="add files into .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files into .gitignore" />
   </component>
 </project>
