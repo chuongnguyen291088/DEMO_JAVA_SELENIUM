@@ -231,6 +231,7 @@
         <!--        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
+
         <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
@@ -276,18 +277,5 @@
             <version>5.7.1</version>
         </dependency>
 
-        <!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.telegram/telegrambots &ndash;&gt;-->
-        <!--        <dependency>-->
-        <!--            <groupId>org.telegram</groupId>-->
-        <!--            <artifactId>telegrambots</artifactId>-->
-        <!--            <version>6.1.0</version>-->
-        <!--        </dependency>-->
-
-        <!--                &lt;!&ndash; https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager &ndash;&gt;-->
-        <!--                <dependency>-->
-        <!--                    <groupId>io.github.bonigarcia</groupId>-->
-        <!--                    <artifactId>webdrivermanager</artifactId>-->
-        <!--                    <version>5.7.0</version>-->
-        <!--                </dependency>-->
     </dependencies>
 </project>
