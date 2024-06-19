@@ -224,11 +224,11 @@
             <version>9.2.1.jre8</version>
         </dependency>
 
-        <dependency>
+<!--        <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>5.4.1</version>
-        </dependency>
+        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
         <dependency>
